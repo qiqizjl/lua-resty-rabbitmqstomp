@@ -1,9 +1,9 @@
 package = "lua-resty-rabbitmqstomp"
-version = "master-0"
+version = "0.2-1"
 
 source = {
    url = "git://github.com/qiqizjl/lua-resty-rabbitmqstomp.git",
-   branch = "master"
+   tag = "v0.2"
 }
 
 description = {
